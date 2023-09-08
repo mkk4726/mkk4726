@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 I am Minku Kim. 
 
 <!--
 **mkk4726/mkk4726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
